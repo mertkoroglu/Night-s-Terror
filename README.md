@@ -13,6 +13,9 @@
 - **Survival Challenge:** Survive the 2-minute night to win the game. Be cautious—if a turret is completely destroyed, the game ends.
 - **Energy Strategy:** Each turret uses energy, so manage them carefully. Closing all turrets gains you energy, and energy will renew over time if depleted.
 
+### Gameplay Overview
+[![Night's Terror Gameplay](https://img.youtube.com/vi/vUYRYNwVS_A/0.jpg)](https://www.youtube.com/watch?v=vUYRYNwVS_A)
+
 ### Screenshots:
 
 ![SS3](https://github.com/mertkoroglu/Night-s-Terror/assets/83218456/50be2e9d-a03d-4dc6-b792-1ae9f5f64641)
